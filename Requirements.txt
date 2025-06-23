@@ -1,6 +1,7 @@
 streamlit
-opencv-python-headless
+whisper
+yt-dlp
 python-docx
-openai-whisper
-torch
 scikit-image
+numpy
+opencv-python
